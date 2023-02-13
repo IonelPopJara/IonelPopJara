@@ -2,6 +2,8 @@
 
 ![Ionel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionelpopjara&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true)
 
+![Ionel's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ionelpopjara&theme=maroongold&hide_border=true&exclude_repo=SmartPot,Selectio&layout=compact&langs_count=10)
+
 <!--
 **IonelPopJara/IonelPopJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
