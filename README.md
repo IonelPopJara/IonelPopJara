@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm a software engineering student from GU who's constantly looking for fun projects to work on.
+Currently studying Computer Science at Chalmers University. I'm constantly looking for new things to learn and fun projects to work on.
 
 [Check out my Website!](https://multslab.com/)
 
